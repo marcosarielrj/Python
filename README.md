@@ -173,6 +173,20 @@ O que aprenderemos?
 
 <br>
 
+## 14 - Jogo de Adivinhação 🎲
+
+Descrição: Implementação de um jogo interativo onde o usuário tenta adivinhar um número aleatório gerado pelo sistema.
+
+O que aprenderemos?
+* Uso da biblioteca `random` para gerar números aleatórios.
+* Loops `while` com condições de saída.
+* Entrada de dados do usuário e conversão para inteiros.
+* Condicionais para comparação e feedback ao jogador.
+* Estruturação lógica de um jogo simples.
+* Incremento de tentativas e feedback visual (mensagens).
+
+<br>
+
 ---
 
 ### 📋 Resumo de Conceitos Aprendidos
