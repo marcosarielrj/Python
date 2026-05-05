@@ -1,3 +1,4 @@
+# Necessário instalar: OpenCV e o Pillow - pip install opencv-python Pillow
 import pyautogui  # Necessário instalar: pip install pyautogui
 import tkinter as tk
 from tkinter import messagebox
