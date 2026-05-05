@@ -173,6 +173,19 @@ O que aprenderemos?
 
 <br>
 
+## 14 - Automação Para Abrir Programas e Clicar Conforme Instruído 🤖
+
+Descrição: O programa automatiza ações conforme instruído pelo Usuário, permitindo abrir programas e executar cliques automatizados.
+
+O que aprenderemos?
+* Automação de interface gráfica utilizando bibliotecas como `pyautogui`.
+* Simulação de cliques de mouse em coordenadas específicas.
+* Abertura de aplicativos do sistema operacional.
+* Controle programático de ações do usuário.
+* Integração com o sistema para automação de tarefas repetitivas.
+
+<br>
+
 ---
 
 ### 📋 Resumo de Conceitos Aprendidos
@@ -186,4 +199,5 @@ Ao completar todos os exercícios, você terá adquirido conhecimento em:
 - **Estruturas de Dados**: Listas, iteração
 - **Técnicas Avançadas**: List comprehension, reconhecimento de voz
 - **GUI**: Interface gráfica com tkinter
+- **Automação**: Automação de interface gráfica e controle do sistema
 - **Ferramentas**: Utilização prática do Github Copilot para acelerar desenvolvimento
