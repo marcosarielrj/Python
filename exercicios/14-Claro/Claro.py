@@ -57,10 +57,10 @@ elif navegador == 2:
     pyautogui.typewrite('chrome')
     
 pyautogui.press('enter')
-""" pyautogui.sleep(3)  # Espera 1 segundo
-pyautogui.hotkey('ctrl', '4')
-# Substitua 'resgatar.png' pela imagem que representa o a página abert
-pyautogui.hotkey('alt', 'tab')  # Alterna para a janela do navegador
+pyautogui.sleep(3)  # Espera 1 segundo
+pyautogui.hotkey('ctrl', 'l')
+pyautogui.typewrite('https://prezaofree.com.br')
+
 wait_for_image('claro.png')
 pyautogui.sleep(2)  # Espera 1 segundo
 wait_for_image('pontuar.png')
@@ -74,7 +74,7 @@ tem_x_imagem('x.png')
 tem_x_imagem('x.png')
 tem_x_imagem('x.png')
 tem_x_imagem('x.png')
- """
+
 # Código antigo para mostrar a localização do mouse
 #x, y = pyautogui.position()
 #print("x = "+str(x)+" y = "+str(y))
